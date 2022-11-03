@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cupoftea-367517",
+  "private_key_id": "411c498e6c0c2a90c17aa79227bbe63f254249ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCwLt1kaxBfrhYr\nygTmWNi4pLiQu6we4c+uj4t2XmLmyObCZqfxN328EKIrXcb6uJb/1ldRQedjw1mi\npXXzQT6xW6Ndl5HfPe20T+r9Y0RRoMDpfM+/5jMRl2P144fntQ72/F3MOBpA+2Te\ngrW2F6CyKUA0W40hhJo4LnMwiu5dHf5skC4G2aUlud9DNgZ8jEHVJYO/BxJ4VXin\nqh32JjAdUX+Lp3z9KVWqGvzODsjmT24FG6ywMdBFgtKRFpLoHmbErGQtGHnJ6yUG\nCu9Anz6sD4UTPAXmrPMLb+fnC5ks0IDLV8zOAZcC8z2lSCEvm7/O8GXgE79vXnsr\nAhmbXjR7AgMBAAECggEAMaxM7EqJV8if5KG1JvLGy6xZgyj+mshkwx0in3F2JgZf\nlVDXKdnQ3+y6pEpw1vCjVidq//R6VjTWOVa4PijXka66DSG2VYBC3DMqGF3b/b26\nljoD4uF25Y9O9h08DJaOTRGTKoho0ohuhJPKwre/rWuW+AwV6uzVhGCIRpftI6Bg\nGcTblQ8ZQ6KkUXB3ynHZGMy5G0RDAa/QLQIKfCzCSBO/Pdmz+iDThOiKdU7kQU6a\n+XG3m1UlWgN6jin2lgRAhjpGPyuIcMEJP8K017tHEMH+ddsrX8PEo0pISYcBMmMv\n27HfWdH8gY6jTbZqhLnUrSUHJc48kZYkyOoIpJBAXQKBgQDwI8GdJkppxJlK6l7J\nXieOIs/EZMcsAsyD7MFDYfBPW6asWx83gs+4CTnv6REMIr7tuephtuQYJOlnJF2r\nAhNYZtiVd6oiLW6fKl+9eZYa17nzCGXR+tyl/T86wIw0kOAZfc0WOhRDl6Au0C5/\nmWVUM1d5Qv+PbyXhTvmA1P7vfQKBgQC70b2DSzehltDDZXxz5PpFB76ivF7OZrL4\n45V9gdCiq0OMNe3ySGnfRo8/ST0keG6y4GJUsTUMZXISRI6ql4Yj/nRZWK8R3qZZ\nowDwjrGmgaC8bs2t0pGG2XXWgJj4+wEvYU1n0zs7sUZXXSEcChoqQW2f04eFyNyb\nkBWuhoDlVwKBgAgNyvKQVDKT62g90AwE4mK7/CfkEWICfgV2rUyrPjoLIt3o+HUO\nKBVOCeln8bBsgebLM3cvgRrmMgXJjHKt0SRH3r+0kbovt+QSsb9TEpu33H6wK2oN\nddUDV1mLF6izqzBvra8vJ3rU3QR06vpQlLtsNWTVwGh5G9YgpfGSMzKpAoGAaC6q\nweZ6QF8JBCoKQ7sy/BGUtG5q5HDhO9/57zmQAnufp2nOyINUfu6DzSYSDWXkecKv\nqKz3cR3gjbOLs6MDXHnsDhd8XRw1CCm7/rQYZPUotP19h7ry0GtVyxtgP1P0T1TY\n/AuWosDt9M4K7KPJ6cCLT4mldhd6D6x36mxfmVcCgYBuv4jqZ+MZa4vFQdTNYt8x\nrOxYjok8DDyW/z5qBfgoYZDDc8LioQPjgxQ74fc3u1jfsv/46yf8VpDDjn39amwa\nkH7+N5NnUBl61wYmYRVpy+9Dhd+sEhzMyovO8vXvfhatOqVatKZ6uVjCCtAQ7SjU\nPMD9olezEQW3/5EXb2bdcA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cupoftea@cupoftea-367517.iam.gserviceaccount.com",
+  "client_id": "115049285114157623647",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cupoftea%40cupoftea-367517.iam.gserviceaccount.com"
+}
