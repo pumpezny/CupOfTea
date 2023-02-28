@@ -1,4 +1,4 @@
 settings = {
-    'TOKEN':'5339751305:AAHYlh0tf20iOiIjleI7S99o4Gfa7pTznl8',
+    'TOKEN':'from botfather',
     'LOG_FILE': 'tea-bot.log'
 }
