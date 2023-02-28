@@ -5,24 +5,24 @@ from typing import List, Union
 
 class GoogleTable:
     def __init__(
-            self, credence_service_file: str = "cupoftea.json", googlesheet_file_url: str = "https://docs.google.com/spreadsheets/d/1h-uL7mAox9PWdzsaNkQJs-G2a7k3-YxabpDM3lpnB2Q/edit#gid=0"
+            self, cupoftea_service_file: str = "cupoftea.json", googlesheet_file_url: str = "https://docs.google.com/...it#gid=0"
     ) -> None:
-        self.credence_service_file: str = credence_service_file
+        self.cupoftea_service_file: str = cupoftea_service_file
         self.googlesheet_file_url: str = googlesheet_file_url
 
     def _get_googlesheet_by_url(
             self, googlesheet_client: pygsheets.client.Client
     ) -> pygsheets.Spreadsheet:
-        """Get Google.Docs Table sheet by document url"""
+     
         sheets: pygsheets.Spreadsheet = googlesheet_client.open_by_url(
             self.googlesheet_file_url
         )
         return sheets.sheet1
 
     def _get_googlesheet_client(self) -> Client:
-        """It is authorized using the service key and returns the Google Docs client object"""
+        
         return pygsheets.authorize(
-            service_file=self.credence_service_file
+            service_file=self.cupoftea_service_file
         )
 
     def search_abonement(
