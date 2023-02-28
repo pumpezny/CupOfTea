@@ -34,7 +34,7 @@ bot = FreakTelegramBot(
     token=config.settings["TOKEN"],
     parse_mode=types.ParseMode.HTML,
     google_table=GoogleTable("cupoftea.json",
-                             "https://docs.google.com/spreadsheets/d/1h-uL7mAox9PWdzsaNkQJs-G2a7k3-YxabpDM3lpnB2Q/edit#gid=0"),
+                             "https://docs.google.com/svoi_znachenia_vstavte"),
 )
 CupOfTea = Dispatcher(bot)
 
